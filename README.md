@@ -14,6 +14,11 @@ Temario, apuntes y ejercicios del módulo de Desarrollo de Aplicaciones Web (DAW
   - [Programación](PROG)
   - [Sistemas Informáticos](SSII)
 
+Gestion de Bases de Datos; https://gestionbasesdatos.readthedocs.io/es/latest/index.html
+
+Es posible que algunas asignaturas no se llamen del mismo modo que las que tenemos nosotros,
+pero si investigamos un poco tenemos los apuntes que necesitamos.
+
 ### Créditos
 
 Todo el material está recogido de la web personal de José Luis Comesaña:
